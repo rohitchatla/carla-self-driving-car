@@ -1,0 +1,9 @@
+'''for carla module not found error-->
+'''
+
+> py -3.7 <script_file_name.py>
+
+eg.
+
+> py -3.7 spawn_npc -n 80(<--count of cars spawning)
+> py -3.7 tut1.py
